@@ -1,0 +1,15 @@
+{
+  "manifest_version":2,
+  "version":"0.5",
+  "name":"VSbs e-book Copier",
+
+  "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+    "browser_action":{
+      "default_title": "VSbs Print Service",
+      "default_popup":"popup.html"
+    },
+  "permissions": ["declarativeContent", "tabs", "storage", "activeTab", "<all_urls>"]
+}
