@@ -75,7 +75,7 @@ function main(total) {
                       });
                       });
 
-                    //Capture Ends , 'active': true
+                    //Capture Ends
                   chrome.tabs.query({'currentWindow': true}, function(taburl){
                     newUrl = taburl[0].url.replace(/\d+([!])/, current + "$1");
                     chrome.tabs.query({'currentWindow': true}, function(tabs) {
