@@ -8,6 +8,7 @@
       "persistent": true
     },
     "browser_action":{
+      "default_icon": "res/32.png";
       "default_title": "VSbs Print Service",
       "default_popup":"popup.html"
     },
