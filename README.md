@@ -8,7 +8,7 @@ VitalSource Bookshelf e-book copier [BETA]
 >Note: Each Screenshot takes 10 secs of extra time to let the image load, so total time will be 10 seconds x No.of pages
 ***
 # Why?
-I was kinda frustated by the fact that Vitalsource only allows to print 2 Pages at a time and considering my e-book being 2590 Pages, it becomes virtually impossible to print it one by one. So I made this Chrome extension which takes screenshot of all the pages one by one. The extension is currently having quite many issues, but at the end of day it works.
+I was kinda frustrated by the fact that Vitalsource only allows to print 2 Pages at a time and considering my e-book being 2590 Pages, it becomes virtually impossible to print it one by one. So I made this Chrome extension which takes screenshot of all the pages one by one. The extension is currently having quite many issues, but at the end of day it works.
 
 # How to use it?
 
@@ -27,7 +27,7 @@ It's quite simple
  - Many of the pages might be missing so have to manually use snipping tool or PrtScr(windows)
  - Each Screenshot takes 10 secs of extra time to let the image load
  
- >If you are a developer then I would request you to please fork this project and rectify these bugs
+>If you are a developer then I would request you to please fork this project and rectify these bugs
  
  # How is it working?
  
