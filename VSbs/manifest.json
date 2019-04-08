@@ -17,5 +17,6 @@
       "32" : "res/32.png",
       "64" : "res/64.png",
       "128" : "res/128.png"
+    },
   "permissions": ["declarativeContent", "tabs", "storage", "activeTab", "<all_urls>"]
 }
